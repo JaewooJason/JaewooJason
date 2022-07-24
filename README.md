@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JaewooJason/JaewooJason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<--https://capsule-render.vercel.app/api?-->
 
-<--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!! It is Jason's git profile %20render&fontSize=90)-->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!! It is Jason's git profile %20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! I'am Jason&fontSize=90" />
+
+## Hi!! Nice to meet you 👋
+### I am Jaewoo Jason Choi, Data Engineer from South Korea. 
+### I hope you find good source from my Github
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JaewooJason&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
