@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!! It is Jason's git profile %20render&fontSize=90)
+<--https://capsule-render.vercel.app/api?-->
+
+<--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!! It is Jason's git profile %20render&fontSize=90)-->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!! It is Jason's git profile %20render&fontSize=90" />
