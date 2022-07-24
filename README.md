@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! I'am Jason&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello! I'am Jason&fontSize=90&&animation=fadeIn&theme=tokyonight" />
 
-## Hi!! Nice to meet you 👋
-### I am Jaewoo Jason Choi, Data Engineer from South Korea. 
-### I hope you find good source from my Github
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JaewooJason&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooJason&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaewooJason&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
