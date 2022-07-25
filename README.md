@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooJason&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaewooJason&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjasonn17)](https://solved.ac/jjasonn17) 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjasonn17)](https://solved.ac/jjasonn17)<br/>
