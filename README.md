@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7FF&width=700&height=100&lines=Tell+you+my+story+)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/99243083/181140471-bfea1840-fd1b-4985-ab50-5d7aa866c085.JPG" width="200" height="200"/>
+
