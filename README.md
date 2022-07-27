@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7FF&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub!!!!)](https://git.io/typing-svg)
 
 <div align=center><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=4&height=300&section=header&text=Hello! I'am Jason&fontSize=90&&animation=fadeIn&theme=slice" />
 
@@ -22,14 +23,14 @@ Here are some ideas to get you started:
 
 ---
 
-<div align=center><p>🔭 What I used</p></br>
+<div align=center><p>:hammer: Tech stacks :wrench: </p></br>
 
-<img alt = "Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></div></br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></div></br>
 
 ---
 
@@ -39,3 +40,7 @@ Here are some ideas to get you started:
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjasonn17)](https://solved.ac/jjasonn17)<br/>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7FF&width=700&height=100&lines=Tell+you+my+story+)](https://git.io/typing-svg)
