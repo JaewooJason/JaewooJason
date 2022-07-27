@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7FF&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7&width=1000&height=100&lines=%F0%9F%8C%9F+Welcome+to+my+GitHub!!!+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <div align=center><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=4&height=300&section=header&text=Hello! I'am Jason&fontSize=90&&animation=fadeIn&theme=slice" />
 
@@ -43,7 +43,13 @@ Here are some ideas to get you started:
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7FF&width=700&height=100&lines=Tell+you+my+story+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7&width=700&height=100&lines=%F0%9F%92%A5+Tell+you+my+story+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)<div>
+<img src="https://user-images.githubusercontent.com/99243083/181141461-cddab199-9065-45a1-8113-86fc6af80e98.jpg" width="200" height="200"/>
 <img src="https://user-images.githubusercontent.com/99243083/181140471-bfea1840-fd1b-4985-ab50-5d7aa866c085.JPG" width="200" height="200"/>
-
+<img src="https://user-images.githubusercontent.com/99243083/181140450-3aad24cd-3a50-4e91-928f-21900e578c9d.JPG" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/99243083/181142892-45722b62-f631-4438-9126-53c14cbae0e7.JPG" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/99243083/181143193-975ad25d-98ca-4d4b-9fbf-85c60ae79782.JPG" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/99243083/181142884-2d6d34a9-15ba-44e9-9668-46542eab0bd6.JPG" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/99243083/181142897-12d219b9-83fc-41c4-8ae1-d2bd54f7edd9.JPG" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/99243083/181143171-d6bf1c55-319f-41fb-8c86-fcc65fa961b6.JPG" width="200" height="200"/>
+</div>
