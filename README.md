@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7&width=1000&height=100&lines=%F0%9F%8C%9F+Welcome+to+my+GitHub!!!+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<div align=center><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=4&height=300&section=header&text=Hello! I'am Jason&fontSize=90&&animation=fadeIn&theme=slice" />
+<div align=center><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=4&height=300&section=header&text=Hello! I am Jason&fontSize=90&&animation=fadeIn&theme=slice" />
 
 ---
 
