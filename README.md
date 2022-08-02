@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align=center><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=4&height=300&section=header&text=Hello! I am Jason&fontSize=90&&animation=fadeIn&theme=slice" />
 
 ---
-:smile: 전 데이터를 통해서 새로운 가치를 발견하는 신입 데이터 분석가 입니다. 데이터는 단순히 데이터로만 보면 안됩니다. 데이터 안에 숨은 가치를 찾는 데이터 분석가가 되고 싶습니다.
+:smile: 새로운 가치를 찾아내고 싶은 신입 개발자입니다. 
 
 ---
 
