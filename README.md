@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=29D4F7&width=1000&height=100&lines=%F0%9F%8C%9F+Welcome+to+my+GitHub!!!+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<div align=center><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=4&height=300&section=header&text=Hello! I am Jason&fontSize=90&&animation=fadeIn&theme=slice" />
-
 ---
-:smile: 새로운 가치를 찾아내고 싶은 신입 개발자입니다. 
+<div align=center>:smile: 새로운 가치를 찾아내고 싶은 신입 데이터 분석가입니다. 
 
 ---
 
